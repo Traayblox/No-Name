@@ -1,0 +1,12 @@
+First Person Player
+  Character Controller
+    Slope Limit: 45
+    Step Offset: 0.3
+    Skin Width: 0.08
+    Min Move Distance: 0.001
+  Player Movement(Script)
+    Speed: 15
+    Gravity: -19.62
+    Jump Height: 3
+    Ground Distance: 0.4
+    Ground Mask: ground
